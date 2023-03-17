@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BillingProject</string>
+    <string name="client_id_edit_text">Please enter Client ID</string>
+    <string name="client_name_edit_text">Please enter Client Name</string>
+    <string name="product_name_edit_text">Please enter Prd Name</string>
+    <string name="product_price_edit_text">Please enter Prd Price</string>
+    <string name="product_quantity_edit_text">Please enter Prd Qty</string>
+    <string name="view_text_view">View Total Billing</string>
+    <string name="client_text_view">Billing Information</string>
+    <string name="input_billing_button">Total Input Billing</string>
+    <string name="record_billing_button">Total Record Billing</string>
+    <string name="prev_button">Prev Billing</string>
+    <string name="next_button">Next Billing</string>
+</resources>
